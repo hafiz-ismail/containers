@@ -1,2 +1,2 @@
 # containers
-Hosted containers created with Singularity.
+Hosted containers created with Singularity/Apptainer.
